@@ -16,15 +16,17 @@ Education
 
 Work experience
 ======
-* Summer 2019: Research Internship
-  * Ruhr University of Bochum (RUB)
-  * Design and implement software level countermeasures against hardware fault attack on ARMv6m.
-  * Supervisor: Professor Amir Moradi
+**Research Internship** June 2019 - August 2019
+  : Ruhr University of Bochum (RUB)
+  : Supervisor: [**Professor Amir Moradi**](https://www.emsec.ruhr-uni-bochum.de/chair/_staff/amir-moradi/)
+  : Design and implement software level countermeasures against hardware fault attack on ARMv6m.
 
-* February 2020 - August 2021 : Scientific intern
-  * Institute of Science and Technology Austria (IST Austria)
-  * Design of decoding algorithm for Reed-Muller Codes.
-  * Supervisor: Professor Marco Mondelli
+
+**Research Internship** February 2020 - August 2021
+  : Institute of Science and Technology Austria (IST Austria)
+  : Supervisor: [**Professor Marco Mondelli**](http://marcomondelli.com/)
+  : Design of decoding algorithm for Reed-Muller Codes.
+
 
 
 Publications

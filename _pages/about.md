@@ -9,6 +9,15 @@ redirect_from:
 ---
 
 
-I am currently a final year undergraduate computer science student at the Sharif University of Technology. In fall I will join Stanford University EE department for my graduate studies.
+I am currently a final year undergraduate computer science student at the Sharif University of Technology and a full-year scientific intern at the Institute of Science and Technology Austria (IST Austria). In the fall of 2021, I will join the Stanford University EE department for my graduate studies.
 
-My main areas of interest are distributed algorithms (generally algorithms), coding theory, information theory, and security related areas. I am currently focusing on applications of coding theory in distributed computing. Previously I have worked on decoding of Reed-Muller codes, Index Coding problem, Embedded Security, as well as total dominating sets of graphs.
+My main areas of interest include,
+* distributed computing \ systems
+* Information Theory and Coding Theory
+* Security Related topics.
+
+previously I have worked on,
+* Reed-Muller Codes
+* Embedded security and fault attacks
+* Index Coding
+* Dominating sets of graphs.
