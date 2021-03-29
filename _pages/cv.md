@@ -37,12 +37,22 @@ Publications
 
 Talks
 ======
-  <ul>{% for post in site.talks %}
+ **"On the Dual of Index Coding Problem"**, The Fourth IPM Biennial Conference on Combinatorics and Computing.(2019)
+
+  <!-- <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+
+**Farzanegan 1 highschool**, Tehran, Iran.  (2017-2019)
+ : Teaching algorithm design and problem solving as preparation for national informatics olympiad.
+
+**Salam 1 highschool**, Tehran, Iran.  (2018-2019)
+ : Problem solving classes as preparation for national informatics olympiad.
+
+
+  <!-- <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
