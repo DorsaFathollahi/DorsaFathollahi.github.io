@@ -16,7 +16,6 @@ I am currently a final year undergraduate computer science student at the Sharif
 My main areas of interest include,
 * Distributed computing \ systems
 * Information Theory and Coding Theory
-* Security Related topics.
 
 Previously I have worked on,
 * Reed-Muller Codes
