@@ -19,7 +19,7 @@ Work experience
 **Research Internship** June 2019 - August 2019
   : Ruhr University of Bochum (RUB)
   : Supervisor: [**Professor Amir Moradi**](https://www.emsec.ruhr-uni-bochum.de/chair/_staff/amir-moradi/)
-  : Design and implement software level countermeasures against hardware fault attack on ARMv6m.
+  : Design and implement software level countermeasures against hardware faults on ARMv6m.
 
 
 **Research Internship** February 2020 - August 2021
