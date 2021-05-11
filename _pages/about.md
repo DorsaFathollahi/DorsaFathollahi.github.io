@@ -19,8 +19,14 @@ My main areas of interest include,
 
 Previously I have worked on,
 * Reed-Muller Codes
-* Embedded security and fault attacks
 * Index Coding
+* Embedded system and fault protection
 * Dominating sets of graphs.
 
 In the non-academic side of life I enjoy [photography](https://unsplash.com/@dorsa) and experimenting with making coffee.
+
+
+
+**NEWS** 
+
+* **April 2021:** Paper "Sparse Multi-Decoder Recursive Projection Aggregation for Reed-Muller Codes" accepted at the 2021 IEEE International Symposium on Information Theory (ISIT'21).
