@@ -47,6 +47,15 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
+
+
+$burgundy                       : #8C001A;
+$dark-burg                  : mix(#000, $burgundy, 40%);
+$darker-burg                : mix(#000, $burgundy, 60%);
+$light-burg                : mix(#fff, $burgundy, 50%);
+$lighter-burg               : mix(#fff, $burgundy, 90%);
+
+
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);

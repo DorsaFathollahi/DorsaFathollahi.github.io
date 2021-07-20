@@ -27,6 +27,7 @@ In the non-academic side of life I enjoy [photography](https://unsplash.com/@dor
 
 
 
-**NEWS** 
+**NEWS**
+* **July 2021:** Talk at "Sparse Multi-Decoder Recursive Projection Aggregation for Reed-Muller Codes" at the 2021 IEEE International Symposium on Information Theory (ISIT'21).
 
 * **April 2021:** Paper "Sparse Multi-Decoder Recursive Projection Aggregation for Reed-Muller Codes" accepted at the 2021 IEEE International Symposium on Information Theory (ISIT'21).
